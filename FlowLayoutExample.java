@@ -14,3 +14,4 @@ public class FlowLayoutExample {
         frame.setVisible(true);
     }
 }
+
