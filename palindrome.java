@@ -14,8 +14,9 @@ public class palindrome {
                 break;
             }
         }
-        if(isPalindrome){
-            
+        if(isPalindrome)
+        {
+            System.out.println("it is palindrome");
         }
     }
 }
